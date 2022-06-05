@@ -1,0 +1,19 @@
+*{
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+h1{
+    text-align: center;
+    background-color: green;
+}
+.recipe-name{
+    text-align: left;
+    background-color: orangered;
+}
+a{
+    background-color: orange;
+}
+img{
+    width: auto;
+    height: 300px;
+}
